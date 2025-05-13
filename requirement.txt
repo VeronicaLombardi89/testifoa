@@ -1,3 +1,5 @@
 streamlit
 pandas 
 matplotlib
+openpyxl #per aprire file excel
+xlsxwriter #anche questo è da mettere sempre
