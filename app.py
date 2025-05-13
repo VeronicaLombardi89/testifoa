@@ -11,7 +11,7 @@ st.markdown(
         display: flex; 
         justify-content: center; 
         align-items: center; 
-        height: 70vh;  /* Centra verticalmente */
+        height: 30vh;  /* Centra verticalmente */
     }
     </style>
     """,
