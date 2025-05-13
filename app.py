@@ -22,3 +22,5 @@ def main():
 if st.button("Prenota il tuo tavolo"):
     st.write("🔔 Grazie per la prenotazione! Ti contatteremo a breve.")
 
+if __name__ == "__main__":
+    main()
