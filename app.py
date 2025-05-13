@@ -16,7 +16,8 @@ body {
     backround-color: #000000;
 }
 </style>
-"""
+""",
+unsafe_allow_html=True, )
 
 
 st.title("La mia app con sfondo nero e testo bianco")
