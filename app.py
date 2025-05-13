@@ -16,7 +16,9 @@ def main():
         """,
         unsafe_allow_html=True
 )
-
+    
+ # Titolo della pagina
+    st.title("La bottega del gusto") 
 
 # Bottone interattivo
 if st.button("Prenota il tuo tavolo"):
